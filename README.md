@@ -1,0 +1,1 @@
+L'objectif du projet est de déterminet un top 20 des pays qui serait bénéfice d'implanter une école numérique en ligne. Nous ferons un nettoyage de donnée, une exploration et une prédiction avec la méthode de quartile.
